@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy nacho, tengo 22 años, comence a incursionar en la programacion por el 2020, hasta que en 2022 al darme cuenta que era lo que me apasionaba, decidi pegar el salto para dedicarme exclusivamente a esto, graduandome de Henry como Full Stack Developer. Fue un camino duro, pero las ganas y motivacion sumado a trabajo en equipo y a buenos compañeros hicieron todo mas fácil.
+### <div align="center">Soy nacho, tengo 23 años, comence a incursionar en la programacion por el 2020, hasta que en 2022 al darme cuenta que era lo que me apasionaba, decidi pegar el salto para dedicarme exclusivamente a esto, graduandome de Henry como Full Stack Developer. Fue un camino duro, pero las ganas y motivacion sumado a trabajo en equipo y a buenos compañeros hicieron todo mas fácil.
 Soy una persona responsable y carismatica, que le gusta trabajar en equipo y aprender cosas nuevas. Siempre predispuesto a realizar mis labores.
 En busca de puestos desafiantes para seguir aprendiendo constantemente. </div>  
   
